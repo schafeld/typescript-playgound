@@ -1,0 +1,25 @@
+{
+  "name": "typescript-playground",
+  "version": "1.0.0",
+  "description": "Typescript experiments",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/schafeld/typescript-playground.git"
+  },
+  "keywords": [
+    "typescript"
+  ],
+  "author": "Oliver Schafeld <info@schafeld.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/schafeld/typescript-playground/issues"
+  },
+  "homepage": "https://github.com/schafeld/typescript-playground#readme",
+  "devDependencies": {
+    "typescript": "^4.1.3"
+  }
+}
